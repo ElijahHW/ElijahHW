@@ -3,5 +3,5 @@ I have a passion for uncovering the truth and protectiong sensitive data in the 
 Furthermore, my interests are within the following fields:
 - Reverse Engineering 🧬
 - Network and Pen-testing 🕸️
-- Hardware and Operatingsystems 💾
+- Hardware and Operatingsystems 🐧
 - Software Defined Radio 📡
