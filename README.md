@@ -5,3 +5,5 @@ Furthermore, my interests are within the following fields:
 - Network and Pen-testing 🕸️
 - Hardware and Operatingsystems 🐧
 - Software Defined Radio 📡
+
+I write about this over here -> [elijahhw.github.io](https://www.elijahhw.github.io/)
