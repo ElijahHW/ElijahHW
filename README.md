@@ -6,4 +6,4 @@ Furthermore, my interests are within the following fields:
 - Hardware and Operatingsystems 🐧
 - Software Defined Radio 📡
 
-I write about this and more here -> [elijahhw.github.io](https://elijahhw.github.io/)
+I write about this and more here -> [countersight.no](https://countersight.no)
