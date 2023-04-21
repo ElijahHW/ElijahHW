@@ -1,5 +1,5 @@
 Self-proclaimed Privacist and Digital Forensics aficionado with a sharp eye for detail 🕵️  
-I have a passion for uncovering legitimacy and protecting sensitive data in the digital world 🌍  
+I have a passion for uncovering legitimacy and protecting sensitive data.
 Furthermore, my interests are within the following fields:
 - Reverse Engineering 🧬
 - Network and Pen-testing 🕸️
